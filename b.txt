@@ -1,1 +1,2 @@
-BBBB
+BB
+This is written in Github
